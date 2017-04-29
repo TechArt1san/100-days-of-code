@@ -22,3 +22,16 @@ So far so good. Completed Bootstrap and jQuery. Psyched for a real project. I ha
 
 ### Day 4: April 25th, 2017
 
+Started with my own project, not much progress. This is where the real learning starts. Forgot to tweet though -.-
+
+### Day 5: April 27th, 2017
+
+Didn't code yesterday. Would have been too much.
+
+Continuing my own project.
+
+### Day 6: April 29th, 2017
+
+Didn't code yesterday...again.
+
+Continuing learnung how to work with CSS /Bootstrap. Using predefined classes as well as getting a hang of how to structrue a web page is pretty non-intuitive right now.
