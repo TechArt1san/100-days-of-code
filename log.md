@@ -41,3 +41,7 @@ Continuing learnung how to work with CSS /Bootstrap. Using predefined classes as
 More progress today. I'm getting a better feeling of how everything works together. I am still confused about aat which level to apply which classes, at div, at col-md, at the actual component? Or whether I have to create custom classes to change padding and color or if bottstrap itself has everything I need.
 
 We will see. Right now there is not missing much, only a way to efficiently place my rows inside a container, where to set the proper colors, to style and size the different types and fill in the content and links. I guess 3 more days and I'm done (7 horus instead of 50, that would be quite good)
+
+
+
+(inactive day count: 2 out of 7)
