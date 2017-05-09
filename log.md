@@ -47,4 +47,19 @@ We will see. Right now there is not missing much, only a way to efficiently plac
 Finished my first homepage. Nice. http://codepen.io/TechArt1san/full/gWWZBv/
 
 
-(inactive day count: 2 out of 7)
+### Day 9: May 3rd, 2017
+
+Portfolio page, not productive.
+
+
+### Day 10: May 8th, 2017
+
+Portfolio page, not productive.
+
+
+### Day 11: May 9th, 2017
+
+Portfolio page: 
+
+
+(inactive day count: 5 out of 14)
