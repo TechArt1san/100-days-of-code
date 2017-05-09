@@ -59,7 +59,7 @@ Portfolio page, not productive.
 
 ### Day 11: May 9th, 2017
 
-Portfolio page: 
+Portfolio page: Making some progress. Still having problems though with placing buttons in a grid.
 
 
-(inactive day count: 5 out of 14)
+(inactive day count: 5 out of 15)
