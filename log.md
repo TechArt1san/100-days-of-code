@@ -64,7 +64,7 @@ Portfolio page: Making some progress. Still having problems though with placing 
 
 ### Day 12: May 11th, 2017
 
-Portfolio page: 
+Portfolio page: Made a lot of progress with the navbar. It's almost perfect now. Ony thing missing is the right color, but I'll wait till the end with the tuning of the colors. Befor I move to the jQuery part, I'll still have to find out how to correctly align the containers so that I have a nice, fixed max an min width....
 
 
 
