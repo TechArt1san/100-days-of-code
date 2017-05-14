@@ -66,6 +66,16 @@ Portfolio page: Making some progress. Still having problems though with placing 
 
 Portfolio page: Made a lot of progress with the navbar. It's almost perfect now. Ony thing missing is the right color, but I'll wait till the end with the tuning of the colors. Befor I move to the jQuery part, I'll still have to find out how to correctly align the containers so that I have a nice, fixed max an min width....
 
+### Day 13: May 12th, 2017
+
+Portfolio page: Much progress. A lot of good work done. I'm soon going to move over to the JS-topics.
+
+### Day 14: May 14th, 2017
+
+Portfolio page: Working on Color and on fine tuning the styling. What's missing is getting all the colors, font-size, font-style, font-type right for the links as active, inactive, and hovering right (also the normal text H4 and paragraph). Getting the spacing and positioning of some elements right, e.g. background image, shadows etc. Then I'll have to include the thumbnails for my portfolio and some buttons, with svg-icons and a form, also including the right styling for all states.
+
+Maybe 5 more days. After that itt'l become interseting, as I will have to include teh dynamics with jQuery. Maybe some tags will become necessary in order or me to be able to access all the values that I need to manipulate.
 
 
-(inactive day count: 6 out of 17)
+
+(inactive day count: 7 out of 21)
