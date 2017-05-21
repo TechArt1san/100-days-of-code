@@ -77,5 +77,6 @@ Portfolio page: Working on Color and on fine tuning the styling. What's missing 
 Maybe 5 more days. After that itt'l become interseting, as I will have to include teh dynamics with jQuery. Maybe some tags will become necessary in order or me to be able to access all the values that I need to manipulate.
 
 
+### Day 15: May 21st, 2017
 
-(inactive day count: 7 out of 21)
+Portfolio again. 
