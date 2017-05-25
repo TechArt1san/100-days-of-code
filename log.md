@@ -81,7 +81,7 @@ Maybe 5 more days. After that itt'l become interseting, as I will have to includ
 
 Portfolio again. Regarding the Content, only the Form is missing. Other than that there is still some fine tuning to do: greaying out the underlying image, fixing the image position, fixing the border-card effect of the whole page, doing the padding for all elements, fixing typography styles and sizes. Then I can go to the dynamic programming part. In the end maybe it makes sense to put my custom css elements into a consistent theme.
 
-### Day 15: ...
+### Day 16: May 25th, 2017
 
-
+Starting with dynamics.
 
