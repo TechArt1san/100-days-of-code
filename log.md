@@ -83,5 +83,5 @@ Portfolio again. Regarding the Content, only the Form is missing. Other than tha
 
 ### Day 16: May 25th, 2017
 
-Starting with dynamics.
+Starting with dynamics. Implemented basic jumps B-) .
 
