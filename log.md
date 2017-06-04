@@ -89,4 +89,6 @@ Starting with dynamics. Implemented basic jumps B-) .
 
 ### Day 17: July 4th, 2017
 
-Contiuig with dynamics / jQuery.
+Continuing with dynamics / jQuery. Introduced scrolling instead of jumps. And fixed some  mistakes regarding shadows, borders and IDs.
+
+Also I began to restructure the css template. It wasn't very practical. Classes were applied only once and the structure of the page wasn't represented in the css, but rather implicitel in the html by applying loads of classes. So from looking at the code you had no idea what was happening. With restructuring it, I wan't to put the logic of how the page looks like where it belongs, into the css file, not into the html file.
