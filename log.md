@@ -87,8 +87,19 @@ Portfolio again. Regarding the Content, only the Form is missing. Other than tha
 Starting with dynamics. Implemented basic jumps B-) .
 
 
-### Day 17: July 4th, 2017
+### Day 17: June 4th, 2017
 
 Continuing with dynamics / jQuery. Introduced scrolling instead of jumps. And fixed some  mistakes regarding shadows, borders and IDs.
 
 Also I began to restructure the css template. It wasn't very practical. Classes were applied only once and the structure of the page wasn't represented in the css, but rather implicitel in the html by applying loads of classes. So from looking at the code you had no idea what was happening. With restructuring it, I wan't to put the logic of how the page looks like where it belongs, into the css file, not into the html file.
+
+### Day 18 June 7th, 2017
+
+Getting the Social buttons right (mouse over - tip ?). Other than that, what's remaining? 
+ - Some CSS structuring
+ - Getting the picture right (button click-able, blurr shadow over the whole picture, centering the picture)
+ - Fixing the nav-bar, removing the bottom nav-bar
+ - Format of the form when it is filled in
+ - Some content stuff
+ - underlines for links
+
