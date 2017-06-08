@@ -103,3 +103,14 @@ Getting the Social buttons right (mouse over - tip ?). Other than that, what's r
  - Some content stuff
  - underlines for links
 
+
+### Day 19 June 8th, 2017
+
+Still getting the Social buttons right, what's remaining? 
+ - Centering icons inside social buttons, tooltip
+ - Some CSS structuring
+ - Getting the picture right (button click-able, blurr shadow over the whole picture, centering the picture)
+ - Fixing the nav-bar, removing the bottom nav-bar
+ - Format of the form when it is filled in
+ - Some content stuff
+ - underlines for links
