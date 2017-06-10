@@ -114,3 +114,24 @@ Still getting the Social buttons right, what's remaining?
  - Format of the form when it is filled in
  - Some content stuff
  - underlines for links
+
+
+### Day 20 June 10th, 2017
+
+CSS was too messy. I started restructring everything. The plan is as follows:
+ 1. Wireframe
+ - add position of everything absolut and relative
+ - no responsiveness, no style, no color, no dynamics
+ 2. Wireframe
+ - add responsiveness
+ - no style, no color, no dynamics
+ 3. Wireframe
+ - add style, including behaviour of pseudo classes
+ - no color, no dynamics
+ 4. Color
+ - no dynamics
+ 5. Dynamics
+ - add Dynamics
+ 
+ 
+ 
