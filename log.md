@@ -152,4 +152,4 @@ Current postition:
  - no dynamics
  5. Dynamics (not started)
  - add Dynamics
- 6. Add-Ons like tool tipps
+ 6. Add-Ons: tool tipps, thick underline, ...
