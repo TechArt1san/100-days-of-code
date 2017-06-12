@@ -139,10 +139,10 @@ CSS was too messy. I started restructring everything. The plan is as follows:
 
 Current postition:
  1. Wireframe
- - add position of everything absolut and relative (navbar nbeeds to be fixed)
+ - add position of everything absolut and relative (navbar needs to be fixed, picture positioned, picture overlay)
  - no responsiveness, no style, no color, no dynamics
  2. Wireframe
- - add responsiveness (responsiveness to be checked)
+ - add responsiveness (responsiveness to be checked, breakpoint customizing)
  - no style, no color, no dynamics
  3. Color
  - add color (static color finished)
