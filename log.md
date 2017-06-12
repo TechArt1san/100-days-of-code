@@ -135,3 +135,21 @@ CSS was too messy. I started restructring everything. The plan is as follows:
  
  
  
+### Day 21 June 12th, 2017
+
+Current postition:
+ 1. Wireframe
+ - add position of everything absolut and relative (navbar nbeeds to be fixed)
+ - no responsiveness, no style, no color, no dynamics
+ 2. Wireframe
+ - add responsiveness (responsiveness to be checked)
+ - no style, no color, no dynamics
+ 3. Color
+ - add color (static color finished)
+ - no pseudo classes, no dynamics
+ 4. Style
+ - add style, including behaviour of pseudo classes (not started)
+ - no dynamics
+ 5. Dynamics (not started)
+ - add Dynamics
+ 6. Add-Ons like tool tipps
