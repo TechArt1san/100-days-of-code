@@ -134,7 +134,7 @@ CSS was too messy. I started restructring everything. The plan is as follows:
  - add Dynamics
  
  
- 
+
 ### Day 21 June 12th, 2017
 
 Current postition:
@@ -144,6 +144,30 @@ Current postition:
  2. Wireframe
  - add responsiveness (responsiveness to be checked, breakpoint customizing)
  - no style, no color, no dynamics
+ 3. Color
+ - add color (static color finished)
+ - no pseudo classes, no dynamics
+ 4. Style
+ - add style, including behaviour of pseudo classes (not started)
+ - no dynamics
+ 5. Dynamics (not started)
+ - add Dynamics
+ 6. Add-Ons: tool tipps, thick underline, ...
+
+ 
+### Day 22 June 12th, 2017
+
+Current postition:
+ 0. Content structure
+ - design content structure via css semantic calasses  
+ 1. Design Structure via Wireframe
+ - add position of everything absolut and relative (navbar needs to be fixed, picture positioned, picture overlay)
+ - no responsiveness, no style, no color, no dynamics
+ 2. Design Structure Wireframe
+ - add flow (breakpoints for design on different devices)
+ - add relative font sizing
+ - add responsiveness (how should the content transform- focus on content)
+ - no style, no color, no js-dynamics
  3. Color
  - add color (static color finished)
  - no pseudo classes, no dynamics
