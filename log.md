@@ -159,14 +159,14 @@ Current postition:
 
 Current postition:
  0. Content structure
- - design content structure via css semantic calasses  
+ - design content structure via css semantic classes (OK)
  1. Design Structure via Wireframe
- - add position of everything absolut and relative (navbar needs to be fixed, picture positioned, picture overlay)
+ - add position of everything absolut and relative (navbar needs to be fixed, picture positioned, picture overlay) (ongoing)
  - no responsiveness, no style, no color, no dynamics
  2. Design Structure Wireframe
- - add flow (breakpoints for design on different devices)
- - add relative font sizing
- - add responsiveness (how should the content transform- focus on content)
+ - add flow (breakpoints for design on different devices) (ongoing)
+ - add relative font sizing (ongoing)
+ - add responsiveness (how should the content transform- focus on content) (ongoing)
  - no style, no color, no js-dynamics
  3. Color
  - add color (static color finished)
